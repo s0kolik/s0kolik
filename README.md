@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s0kolik
 - 👀 I’m interested in collectible plants, tattoos.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**.
 - 📫 How to reach me grzegorz.sokol92@gmail.com
 
 <!---
